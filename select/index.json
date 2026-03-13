@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "FOR REAL",
+  "base_artist": "徳山秀典",
+  "createdAt": "2026-03-13T13:58:21.787489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nah For Real",
+      "artist": "YBN Nahmir feat. YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/01_Nah_For_Real_YBN_Nahmir_feat._YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nah For Real",
+      "artist": "YBN Nahmir & YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/02_Nah_For_Real_YBN_Nahmir_&_YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be for Real",
+      "artist": "Leonard Cohen",
+      "has_synced": false,
+      "path": "select/03_Be_for_Real_Leonard_Cohen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For Real",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/04_For_Real_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For Real",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/05_For_Real_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Love Is For Real",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/06_My_Love_Is_For_Real_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Love Is For Real (Con Paula Abdul)",
+      "artist": "Ofra Haza",
+      "has_synced": true,
+      "path": "select/07_My_Love_Is_For_Real_(Con_Paula_Abdul)_Ofra_Haza.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Love Is for Real",
+      "artist": "Strike",
+      "has_synced": false,
+      "path": "select/08_My_Love_Is_for_Real_Strike.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Me For Real",
+      "artist": "Arthur Russell",
+      "has_synced": false,
+      "path": "select/09_Me_For_Real_Arthur_Russell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For Real",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/10_For_Real_Tricky.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Be for Real",
+      "artist": "CunninLynguists feat. Masta Ace",
+      "has_synced": true,
+      "path": "select/11_To_Be_for_Real_CunninLynguists_feat._Masta_Ace.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To Be For Real",
+      "artist": "Cunninlynguists",
+      "has_synced": true,
+      "path": "select/12_To_Be_For_Real_Cunninlynguists.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Can Be For Real",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/13_I_Can_Be_For_Real_The_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Live For Real",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": true,
+      "path": "select/14_Live_For_Real_ILOVEMAKONNEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Got to Be for Real",
+      "artist": "Pressure Drop",
+      "has_synced": false,
+      "path": "select/15_Got_to_Be_for_Real_Pressure_Drop.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lion for Real",
+      "artist": "Kate Boy",
+      "has_synced": true,
+      "path": "select/16_Lion_for_Real_Kate_Boy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Play It For Real",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/17_Play_It_For_Real_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Am for Real",
+      "artist": "The Whigs",
+      "has_synced": true,
+      "path": "select/18_I_Am_for_Real_The_Whigs.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "My Love Is For Real feat. Haddaway - Live At The Cathedral",
+      "artist": "Wolfram feat. Haddaway",
+      "has_synced": true,
+      "path": "select/19_My_Love_Is_For_Real_feat._Haddaway_-_Live_At_The_Cathedral_Wolfram_feat._Haddaway.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/20_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/21_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/22_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "For What It’s Worth",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/23_For_What_It’s_Worth_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Holding out for a Hero",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/24_Holding_out_for_a_Hero_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/25_Hymn_for_the_Weekend_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "If It Wasn’t For Trucks",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/26_If_It_Wasn’t_For_Trucks_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Paying For It (feat. Walker Hayes)",
+      "artist": "Levi Hummon feat. Walker Hayes",
+      "has_synced": true,
+      "path": "select/27_Paying_For_It_(feat._Walker_Hayes)_Levi_Hummon_feat._Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Paying For It",
+      "artist": "Levi Hummon",
+      "has_synced": true,
+      "path": "select/28_Paying_For_It_Levi_Hummon.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future feat. Tems & Drake",
+      "has_synced": true,
+      "path": "select/29_WAIT_FOR_U_(feat._Drake_&_Tems)_Future_feat._Tems_&_Drake.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "What I Wasn't Lookin' for",
+      "artist": "Ryan Robinette",
+      "has_synced": false,
+      "path": "select/30_What_I_Wasn't_Lookin'_for_Ryan_Robinette.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Fishing for Fishies",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/31_Fishing_for_Fishies_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Fishing For Fishies",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/32_Fishing_For_Fishies_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Mars For The Rich",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/33_Mars_For_The_Rich_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOR REAL",
+      "artist": "徳山秀典",
+      "has_synced": false,
+      "path": "select/pl_01_FOR_REAL_徳山秀典.txt"
+    }
+  ]
+}
